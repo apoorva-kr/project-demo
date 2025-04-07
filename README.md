@@ -1,4 +1,2 @@
-# project-demo
-this is my first git repository.
-<br>
-author -apoorva
+#  react project-demo
+to-do-list
